@@ -42,10 +42,5 @@ I’m Tusher, a Flutter developer from Bangladesh passionate about crafting **be
 
 ---
 
-## 👀 Profile Views
-
-![Visitors](https://komarev.com/ghpvc/?username=tusher2018&label=Profile%20Views&color=0e75b6&style=flat)
-
----
 
 _Thanks for visiting! Let's connect and build something awesome together ✨_
