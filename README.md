@@ -42,10 +42,21 @@ I’m Tusher, a Flutter developer from Bangladesh passionate about crafting **be
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 ![Tusher's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusher2018&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusher2018&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusher2018&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tusher2018&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tusher2018&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👀 Profile Views
+
+![Visitors](https://komarev.com/ghpvc/?username=tusher2018&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
