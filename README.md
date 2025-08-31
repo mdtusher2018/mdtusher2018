@@ -29,12 +29,6 @@ I’m Tusher, a Flutter developer from Bangladesh passionate about crafting **be
 
 ---
 
-## 📫 Connect with Me
-
-- 📧 Email: [shairfinalamintusher@gmail.com](mailto:shairfinalamintusher@gmail.com)
-- 💼 LinkedIn: [Shairfin Alamin Tusher](https://www.linkedin.com/in/shairfin-alamin-tusher-b15299264)
-
----
 
 ## 📊 GitHub Stats & Activity
 
