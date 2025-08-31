@@ -6,12 +6,6 @@ I’m Tusher, a Flutter developer from Bangladesh passionate about crafting **be
 
 ---
 
-## 🧑‍💻 My Portfolio
-🌐 Check out all of my projects here:  
-👉 [shairfinalamintusherp1.github.io/portfolio](https://shairfinalamintusherp1.github.io/portfolio/)
-
----
-
 ## 💬 About Me
 - 🔭 Currently building modern mobile apps using Flutter
 - 🌱 Exploring advanced Firebase features and backend integration
